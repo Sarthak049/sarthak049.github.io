@@ -23,7 +23,7 @@ email: #
 description: >- # this means to ignore newlines until "baseurl:"
   Slop.AI is the collection of Analytical Insights generated using the SOTA LLM models using deep research on web data.
 baseurl: "/ai-slop" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://3uplabs.com" # the base hostname & protocol for your site, e.g. http://example.com
 disclaimer: >- # this means to ignore newlines until "baseurl:"
   Disclaimer: All content on Slop.AI (this website) is AI-generated or AI-assisted and provided solely for informational and entertainment purposes, with no guarantees of accuracy, completeness, reliability, or timeliness, and may be incorrect, misleading, outdated, or hallucinated (by AI). Users are responsible for independently verifying all information before relying on it. By using this site, you agree that the blog owner, contributors, and creators assume no liability of any kind—direct, indirect, incidental, consequential, legal, or otherwise—for any loss, harm, or damages arising from the use, reliance on, or interpretation of the content, even if it is later found to be incorrect or misleading. Use the site at your own discretion.
 twitter_username: #
